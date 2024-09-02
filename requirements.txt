@@ -1,0 +1,4 @@
+gradio
+groq
+PyPDF2
+python-docx
